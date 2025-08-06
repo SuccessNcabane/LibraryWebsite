@@ -1675,11 +1675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL&LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\backend.csproj",
+      "projectUniqueName": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL&LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\backend.csproj",
+      "projectPath": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\NcaBane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL&LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\obj\\",
+      "outputPath": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

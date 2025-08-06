@@ -1,42 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\",
+  "WorkspaceRootPath": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\desktop\\idealistic projects\\community hall\u0026library website\\lastattempt\\librarywebsite\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\documents\\github\\librarywebsite\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\desktop\\idealistic projects\\community hall\u0026library website\\lastattempt\\librarywebsite\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\documents\\github\\librarywebsite\\backend\\models\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:models\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\desktop\\idealistic projects\\community hall\u0026library website\\lastattempt\\librarywebsite\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\desktop\\idealistic projects\\community hall\u0026library website\\lastattempt\\librarywebsite\\backend\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\documents\\github\\librarywebsite\\backend\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\desktop\\idealistic projects\\community hall\u0026library website\\lastattempt\\librarywebsite\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\documents\\github\\librarywebsite\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\desktop\\idealistic projects\\community hall\u0026library website\\lastattempt\\librarywebsite\\backend\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\documents\\github\\librarywebsite\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\documents\\github\\librarywebsite\\backend\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\desktop\\idealistic projects\\community hall\u0026library website\\lastattempt\\librarywebsite\\backend\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\documents\\github\\librarywebsite\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\documents\\github\\librarywebsite\\backend\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\desktop\\idealistic projects\\community hall\u0026library website\\lastattempt\\librarywebsite\\backend\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\documents\\github\\librarywebsite\\backend\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\desktop\\idealistic projects\\community hall\u0026library website\\lastattempt\\librarywebsite\\backend\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|c:\\users\\ncabane\\documents\\github\\librarywebsite\\backend\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C635DE-1118-4D32-9CE3-36BD2325A4A5}|backend.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +50,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Models\\AdminController.cs",
+              "RelativeDocumentMoniker": "Models\\AdminController.cs",
+              "ToolTip": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Models\\AdminController.cs",
+              "RelativeToolTip": "Models\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:31:17.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LoanController.cs",
-              "DocumentMoniker": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Controllers\\LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Controllers\\LoanController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoanController.cs",
-              "ToolTip": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Controllers\\LoanController.cs",
               "RelativeToolTip": "Controllers\\LoanController.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAqwGEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,13 +78,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T13:49:32.106Z"
             },
@@ -76,22 +92,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Program.cs",
+              "ToolTip": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAANzMzMzP7vxwAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T13:27:26.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "backend.csproj",
-              "DocumentMoniker": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\backend.csproj",
+              "DocumentMoniker": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\backend.csproj",
               "RelativeDocumentMoniker": "backend.csproj",
-              "ToolTip": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\backend.csproj",
               "RelativeToolTip": "backend.csproj",
               "ViewState": "AgIAAAcAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -101,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Loan.cs",
-              "DocumentMoniker": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Models\\Loan.cs",
+              "DocumentMoniker": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Models\\Loan.cs",
               "RelativeDocumentMoniker": "Models\\Loan.cs",
-              "ToolTip": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Models\\Loan.cs",
               "RelativeToolTip": "Models\\Loan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,23 +127,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwDsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAA/f////8ZwHQAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T14:17:09.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LibraryContext.cs",
-              "DocumentMoniker": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Data\\LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Data\\LibraryContext.cs",
               "RelativeDocumentMoniker": "Data\\LibraryContext.cs",
-              "ToolTip": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Data\\LibraryContext.cs",
               "RelativeToolTip": "Data\\LibraryContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,21 +153,21 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAIBJwDsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T09:50:50.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL\u0026LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Schoemansdal Community Library</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Schoemansdal Community Library - A place for knowledge and community engagement.">
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body>
+    <div class="header">
+      <a href="index.html" class="logo-link" >
+        <img src="images/librarylogo.png" class = "logo" alt="Library Logo">
+      </a>
+      <div class="mainManu">
+        <a href="events.html"><h3>Events</h3></a>
+        <a href="services.html"><h3>Services</h3></a>
+        <a href="about.html"><h3>About</h3></a>
+        <a href="signup.html"><h3>Sign Up</h3></a>
+        
+      </div>
+    </div>
+
+    <div class="middle-bookings">
+        
+    </div>
+      <div class="footer-container">
+        <div class="details">
+          <div class="Contact Us">
+             <h4>Contact Us</h4>
+            <p>Schoemansdal Community Library</p>
+            <p>R570,Schoemansdal, KaMatsamo, 1331</p>
+            <p>Email: CommunityLibrary@gmail.com</p>
+            <p>Phone: +27 13 123 4567</p>
+          </div>
+          <div class="Library Hours">
+            <h4>Library Hours</h4>
+            <p>Monday - Friday: 9:00 AM - 5:00 PM</p>
+            <p>Saturday: 10:00 AM - 2:00 PM</p>
+            <p>Sunday: Closed</p>
+
+          </div>
+          <div class="connect">
+            <h4>Connect with Us</h4>
+            <a href="https://web.facebook.com/?_rdc=1&_rdr#"><img src="C:\Users\NcaBane\Desktop\IDEALISTIC PROJECTS\COMMUNITY HALL&LIBRARY WEBSITE\images\fblogo.png" class="social-icons"></a>
+            <a href="https://www.youtube.com//"><img src="C:\Users\NcaBane\Desktop\IDEALISTIC PROJECTS\COMMUNITY HALL&LIBRARY WEBSITE\images\youtube.png" class="social-icons"></a>
+            <a href="https://www.instagram.com/"><img src="C:\Users\NcaBane\Desktop\IDEALISTIC PROJECTS\COMMUNITY HALL&LIBRARY WEBSITE\images\insta.jfif" class="social-icons"></a>
+
+          </div>
+        </div>
+         <p class="lisence">© 2025 Schoemansdal Community Library. All rights reserved.</p>
+      </div>
+      <script>
+        // JavaScript code can be added here if needed
+        const image =[
+        "images/shelfs.jfif",
+        "images/room2.jfif",
+        "images/room.jfif",
+
+        ];
+        let currentIndex = 0;
+        const slideshow = document.getElementById("slideshow");
+        setInterval(() => {
+          slideshow.classList.add("slide-left");
+          setTimeout(() => {
+            currentIndex = (currentIndex + 1) % image.length;
+            slideshow.src = image[currentIndex];
+            slideshow.classList.remove("slide-left");
+          },700)
+          
+        }, 5000); // Change image every 5 seconds
+
+        // Make the header shrink on scroll
+        window.addEventListener("scroll", function() {
+          const header = document.querySelector(".header");
+          if (window.scrollY > 50) {
+            header.classList.add("shrink");
+          } else {
+            header.classList.remove("shrink");
+          }
+        });
+
+         //_____________________________________________________//
+        // Highlight selected menu option
+         document.querySelectorAll('.mainManu a').forEach(link => {
+        if (window.location.pathname.endsWith(link.getAttribute('href'))) {
+         link.classList.add('active');
+         }
+         });
+      </script>
+    
+  </body>
+</html>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C1LgwCjFqWM=",
+  "dgSpecHash": "6uCNBw4Uj34=",
   "success": false,
-  "projectFilePath": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL&LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NcaBane\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
     "C:\\Users\\NcaBane\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.7\\microsoft.entityframeworkcore.9.0.7.nupkg.sha512",
@@ -43,17 +43,17 @@
       "code": "NU1900",
       "level": "Warning",
       "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL&LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\backend.csproj",
+      "projectPath": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\backend.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL&LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\backend.csproj",
+      "filePath": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\backend.csproj",
       "targetGraphs": []
     },
     {
       "code": "NU1605",
       "level": "Error",
       "message": "Warning As Error: Detected package downgrade: System.IdentityModel.Tokens.Jwt from 7.0.3 to 6.34.0. Reference the package directly from the project to select a different version. \r\n backend -> Microsoft.AspNetCore.Authentication.JwtBearer 8.0.0 -> Microsoft.IdentityModel.Protocols.OpenIdConnect 7.0.3 -> System.IdentityModel.Tokens.Jwt (>= 7.0.3) \r\n backend -> System.IdentityModel.Tokens.Jwt (>= 6.34.0)",
-      "projectPath": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL&LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\backend.csproj",
-      "filePath": "C:\\Users\\NcaBane\\Desktop\\IDEALISTIC PROJECTS\\COMMUNITY HALL&LIBRARY WEBSITE\\LastAttempt\\LibraryWebsite\\backend\\backend.csproj",
+      "projectPath": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\backend.csproj",
+      "filePath": "C:\\Users\\NcaBane\\Documents\\GitHub\\LibraryWebsite\\backend\\backend.csproj",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net8.0"
