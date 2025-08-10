@@ -1,4 +1,4 @@
-# 📚 Community Hall & Library Website - Backend
+# 📚 Community Hall & Library Website - Backend and FrontEnd
 
 This is the backend for the **Community Hall & Library Website** project.  
 It provides API endpoints for:
